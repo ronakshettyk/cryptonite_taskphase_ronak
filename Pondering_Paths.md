@@ -2,7 +2,7 @@
 
 ##The Root
 
-I invoked th /pwn command to get the absolute path
+I invoked the /pwn command to get the absolute path
 
 ##Program and absolute paths
 

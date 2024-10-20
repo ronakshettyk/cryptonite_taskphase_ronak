@@ -18,7 +18,7 @@
     
    ##Adding commands
     
-    i used find / -name bash to get the bash to get the path to bash
+    i used find / -name bash to get the bash shell location
     then used the ln command to create links between files .
     the command PATH=/home/hacker/:$PATH sets the PATH variable to include the /home/hacker/ directory at the beginning,
     ensuring that any executables in that directory are found first by the shell.

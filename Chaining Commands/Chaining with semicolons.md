@@ -1,8 +1,10 @@
-# Chaining with semicolons
+# Chaining with Semicolons
 
 ## Code
 
-/challenge/pwn;/challenge/college
+```bash
+/challenge/pwn
+/challenge/college
 
 ## Explanation
 

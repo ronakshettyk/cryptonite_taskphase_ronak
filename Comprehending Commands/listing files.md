@@ -9,4 +9,4 @@ ls
 ## Explanation:
 using ls command I list the files in the /challenge directory
 
-and then i just use /challenge/<file name> to get the flag
+and then i just use /challenge/file_name to get the flag

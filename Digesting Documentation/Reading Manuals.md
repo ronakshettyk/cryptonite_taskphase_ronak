@@ -3,8 +3,7 @@
 ## Code:
 ```bash
 man challenge
-/challenge/challenge
---nfnxys 108
+/challenge/challenge --nfnxys 108
 ```
 ## Explanation:
 I used man challenge command to give the manual of the command passed

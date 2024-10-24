@@ -4,7 +4,7 @@
 
 ```bash
 /challenge/run
-then i used CTRL+C to interrupt and get the flag
+^C
 ```
 ## Explanation
 

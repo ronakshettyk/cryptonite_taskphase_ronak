@@ -9,7 +9,7 @@ cd /etc/apt/sources.list.d
 ```
 ## Explanation
 
-I ran the /challenge/run command where it showed me the diretory i should be in ,
+I ran the /challenge/run command where it showed me the directory  i should be in ,
 
 which was "/etc/apt/sources.list.d", i ran cd to change the directory to the given one
 
